@@ -1,0 +1,21 @@
+usage: svlogd [-ttv] [-r c] [-R abc] [-l len] [-b buflen] dir ...
+
+111
+$Id: ead958ad73a462f953c07da1fb1aed56281f3409 $
+usage: svlogd [-ttv] [-r c] [-R abc] [-l len] [-b buflen] dir ...
+
+111
+0
+foo
+0
+foo
+bar
+baz
+0
+foo
+bar
+baz
+:oo
+:ar
+:az
+0
