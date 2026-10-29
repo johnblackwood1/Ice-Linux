@@ -1,0 +1,10 @@
+grub-core/lib/i386/pc/grub_menulst2cfg-vesa_modes_table.o: \
+ grub-core/lib/i386/pc/vesa_modes_table.c /usr/include/stdc-predef.h \
+ include/grub/i386/pc/vesa_modes_table.h include/grub/types.h config.h \
+ config-util.h /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h
+/usr/include/stdc-predef.h:
+include/grub/i386/pc/vesa_modes_table.h:
+include/grub/types.h:
+config.h:
+config-util.h:
+/usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h:

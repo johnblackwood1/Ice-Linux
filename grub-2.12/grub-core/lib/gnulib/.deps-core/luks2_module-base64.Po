@@ -1,0 +1,39 @@
+lib/gnulib/luks2_module-base64.o: lib/gnulib/base64.c ../config.h \
+ lib/gnulib/base64.h ../grub-core/lib/gnulib/idx.h \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+ ../grub-core/lib/posix_wrap/stdint.h \
+ ../grub-core/lib/posix_wrap/sys/types.h ../include/grub/misc.h \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+ ../include/grub/types.h \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
+ ../include/grub/cpu/types.h ../include/grub/symbol.h \
+ ../include/grub/err.h ../include/grub/compiler.h ../include/grub/i18n.h \
+ ../grub-core/lib/gnulib/ialloc.h ../grub-core/lib/gnulib/idx.h \
+ ../grub-core/lib/posix_wrap/errno.h ../grub-core/lib/posix_wrap/stdlib.h \
+ ../include/grub/mm.h ../include/grub/safemath.h \
+ ../grub-core/lib/gnulib/intprops.h ../grub-core/lib/posix_wrap/limits.h \
+ ../grub-core/lib/posix_wrap/string.h
+../config.h:
+lib/gnulib/base64.h:
+../grub-core/lib/gnulib/idx.h:
+/usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h:
+../grub-core/lib/posix_wrap/stdint.h:
+../grub-core/lib/posix_wrap/sys/types.h:
+../include/grub/misc.h:
+/usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h:
+../include/grub/types.h:
+/usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h:
+../include/grub/cpu/types.h:
+../include/grub/symbol.h:
+../include/grub/err.h:
+../include/grub/compiler.h:
+../include/grub/i18n.h:
+../grub-core/lib/gnulib/ialloc.h:
+../grub-core/lib/gnulib/idx.h:
+../grub-core/lib/posix_wrap/errno.h:
+../grub-core/lib/posix_wrap/stdlib.h:
+../include/grub/mm.h:
+../include/grub/safemath.h:
+../grub-core/lib/gnulib/intprops.h:
+../grub-core/lib/posix_wrap/limits.h:
+../grub-core/lib/posix_wrap/string.h:

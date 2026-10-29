@@ -1,0 +1,39 @@
+lib/gnulib/malloc/regexp_module-dynarray_resize.o: \
+ lib/gnulib/malloc/dynarray_resize.c \
+ ../grub-core/lib/gnulib/libc-config.h ../config.h \
+ ../grub-core/lib/posix_wrap/errno.h ../include/grub/err.h \
+ ../include/grub/symbol.h ../include/grub/compiler.h \
+ ../grub-core/lib/gnulib/cdefs.h ../grub-core/lib/gnulib/dynarray.h \
+ ../grub-core/lib/gnulib/malloc/dynarray.h \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+ ../grub-core/lib/posix_wrap/string.h ../include/grub/misc.h \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+ ../include/grub/types.h ../include/grub/cpu/types.h \
+ ../include/grub/i18n.h ../grub-core/lib/posix_wrap/sys/types.h \
+ ../grub-core/lib/gnulib/intprops.h ../grub-core/lib/posix_wrap/limits.h \
+ ../grub-core/lib/posix_wrap/stdlib.h ../include/grub/mm.h \
+ ../include/grub/safemath.h
+../grub-core/lib/gnulib/libc-config.h:
+../config.h:
+../grub-core/lib/posix_wrap/errno.h:
+../include/grub/err.h:
+../include/grub/symbol.h:
+../include/grub/compiler.h:
+../grub-core/lib/gnulib/cdefs.h:
+../grub-core/lib/gnulib/dynarray.h:
+../grub-core/lib/gnulib/malloc/dynarray.h:
+/usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h:
+../grub-core/lib/posix_wrap/string.h:
+../include/grub/misc.h:
+/usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h:
+../include/grub/types.h:
+../include/grub/cpu/types.h:
+../include/grub/i18n.h:
+../grub-core/lib/posix_wrap/sys/types.h:
+../grub-core/lib/gnulib/intprops.h:
+../grub-core/lib/posix_wrap/limits.h:
+../grub-core/lib/posix_wrap/stdlib.h:
+../include/grub/mm.h:
+../include/grub/safemath.h:
